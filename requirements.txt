@@ -1,0 +1,6 @@
+pandas
+tensorflow-macos
+matplotlib
+scikit-learn
+numpy
+ipykernel
